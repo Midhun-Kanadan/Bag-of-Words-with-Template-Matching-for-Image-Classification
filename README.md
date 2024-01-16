@@ -1,5 +1,5 @@
 
-# Project Title
+# Bag-of-Words-with-Template-Matching-for-Image-Classification
 
 ## Overview
 This project focuses on the implementation of Template Matching and Bag of Visual Words techniques in image processing. The main objective is to apply these techniques for pattern recognition in a set of images.
@@ -52,17 +52,4 @@ This project focuses on the implementation of Template Matching and Bag of Visua
    - Run kNN on test images 5 and 6.
    - Plot the results with the predicted class.
 
-## Requirements
-List any libraries or dependencies required for this project.
 
-## Installation
-Provide instructions on how to set up the project.
-
-## Usage
-Describe how to run the tasks and any relevant scripts.
-
-## Contributing
-Guidelines for contributing to this project.
-
-## License
-Specify the license under which this project is released.
