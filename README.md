@@ -1,0 +1,1 @@
+# Bag-of-Words-with-Template-Matching-for-Image-Classification
